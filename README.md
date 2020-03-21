@@ -1,4 +1,4 @@
-# Dockerized api
+# Dockerized api ![GitHub](https://img.shields.io/github/license/EnsembleTn/api-docker.svg)
 
 ## To get started
 ```
